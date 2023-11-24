@@ -1,0 +1,41 @@
+body{
+    /* background-color: #8083C9; */
+}
+
+.container{
+    width: auto;
+    height:710px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: #8083C9;
+}
+
+.nav{
+    float: left;
+    width: 60px;
+    height: 500px;
+    margin-left: 40px;
+    margin-top: 100px;
+    /* border: 1px black solid; */
+    border-radius: 30px;
+    background-color: #2F2D51;
+}
+.box-containt{
+
+    width: 1160px;
+    height: 670px;
+    float: left;
+    margin-left:110px ;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+}
+.nav ul {
+    list-style-type: none; /* Supprime les puces de la liste */
+    padding: 0;
+    margin: 0;
+}
+
+.nav li {
+    margin-bottom: 10px; /* Ajoutez une marge entre les éléments de la liste si nécessaire */
+}

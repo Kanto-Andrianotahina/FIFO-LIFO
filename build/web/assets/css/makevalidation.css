@@ -1,0 +1,86 @@
+body{
+    /* background-color: #8083C9; */
+}
+
+.container{
+    width: auto;
+    /* height:710px; */
+    height: 100vh;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: #8083C9;
+}
+
+.nav{
+    float: left;
+    width: 60px;
+    height: 500px;
+    margin-left: 40px;
+    margin-top: 100px;
+    /* border: 1px black solid; */
+    border-radius: 30px;
+    background-color: #2F2D51;
+}
+.box-containt{
+    width: 90%;
+    height: 680px;
+    float: left;
+    margin-left:22px ;
+    margin-top: 1%;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+}
+
+.box{
+    width: 100%;
+    height: 50px;
+    padding: 20px;
+    margin-top: 1px;
+    margin-bottom: 20px;
+    border: 1px black solid;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+}
+ul {
+    list-style-type: none;
+    margin-left: 5px;
+    margin-top: 10px    
+}
+li{
+    margin-top: 30px;
+    margin-left: -15px;
+}
+i{
+    font-size: 18px;
+    color: #fff;
+}
+.nav-list{
+    margin-top: 115px;
+}
+.btn-submit {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.search{
+    border: 1px solid #ddd; /* Bordure de 1 pixel solide avec couleur grise */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ombre de boîte avec décalage 0, 0 et flou 10px */
+    padding: 20px; /* Ajoutez un peu de rembourrage pour plus d'espace à l'intérieur de la boîte */
+    margin-top: 25px; /* Ajoutez un peu d'espace en haut de la boîte */
+    width: 400px;
+    margin-left: 340px;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}

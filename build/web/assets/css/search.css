@@ -1,0 +1,19 @@
+.btn-submit {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.search{
+    border: 1px solid #ddd; /* Bordure de 1 pixel solide avec couleur grise */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ombre de boîte avec décalage 0, 0 et flou 10px */
+    padding: 20px; /* Ajoutez un peu de rembourrage pour plus d'espace à l'intérieur de la boîte */
+    margin-top: 40px; /* Ajoutez un peu d'espace en haut de la boîte */
+    width: 400px;
+    margin-left: 340px;
+}
+
+
+
